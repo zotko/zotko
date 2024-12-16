@@ -4,7 +4,7 @@
 
 I'm a Data Scientist and ML Engineer.
 
-🔭 Currently working on [xyz2graph](https://github.com/zotko/xyz2graph) - A Python package for converting XYZ molecular files into interactive 3D visualizations and NetworkX graphs  
+🔭 Currently working on [xyz2graph](https://github.com/zotko/xyz2graph) - Convert XYZ files to 3D visualizations and graphs  
 🌱 Currently learning JavaScript  
 💬 Ask me about data science and machine learning
 
