@@ -35,7 +35,7 @@ I'm a Data Scientist and ML Engineer.
 <a href="https://stackoverflow.com/users/8973620/mykola-zotko">
   <img src="https://stackoverflow.com/users/flair/8973620.png" width="208" height="58" alt="profile for Mykola Zotko at Stack Overflow" title="profile for Mykola Zotko at Stack Overflow">
 </a>
-
+<br>
 <a href="https://www.buymeacoffee.com/mykola_zotko">
   <img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee">
 </a>
