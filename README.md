@@ -30,7 +30,7 @@ I'm a Data Scientist and ML Engineer.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>
 
 ### Community
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zotko&rank=-C,-B,-?&margin-w=15)](https://github.com/zotko)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zotko&rank=-C,-?&margin-w=15)](https://github.com/zotko)
 
 <a href="https://stackoverflow.com/users/8973620/mykola-zotko">
   <img src="https://stackoverflow.com/users/flair/8973620.png" width="208" height="58" alt="profile for Mykola Zotko at Stack Overflow" title="profile for Mykola Zotko at Stack Overflow">
