@@ -1,12 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
-## Hi there 👋
-
-I'm a Data Scientist and ML Engineer.
-
-🔭 Currently working on [xyz2graph](https://github.com/zotko/xyz2graph) - Convert XYZ files to 3D visualizations and graphs  
-🌱 Currently learning JavaScript  
-💬 Ask me about data science and machine learning
+Got an exciting project? 🚀 Let’s bring it to life!
 
 ### Tech Stack
 
