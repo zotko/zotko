@@ -1,5 +1,5 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
-[https://komarev.com/ghpvc](https://komarev.com/ghpvc/?username=zotko)
+![](https://komarev.com/ghpvc/?username=zotko)
 
 Got an exciting project? 🚀 Let’s bring it to life!
 
