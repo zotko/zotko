@@ -1,6 +1,6 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine/)
 
-## Got an exciting project? 🚀 Let’s bring it to life!
+Got an exciting project? 🚀 Let’s bring it to life!
 
 ### Tech Stack
 
