@@ -16,6 +16,8 @@ Got an exciting project? 🚀 Let’s bring it to life!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30" height="30"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" height="30"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="30" height="30"/>&nbsp;
+
 
 ### Community
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zotko&rank=-C,-?&margin-w=15)](https://github.com/zotko)
